@@ -27,19 +27,6 @@ try {
 }
 ```
 
-
-<div align="center">
-  <h3>Skills & Daily Tools</h3>
-  
-  | Skill | Status |
-  |-------|--------|
-  | JavaScript | `!false === true // seems legit` |
-  | React | `useContext(brain)` |
-  | Node.js | `if(brain === empty) { npm install brain; }` |
-  | Git | `git commit -m "I hope this works"` |
-  | CSS | `z-index: 9999; // take that, dropdown!` |
-</div>
-
 <div align="center">
   <sup><sub>You're visitor #42 (in base infinity)</sub></sup>
 </div>
