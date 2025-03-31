@@ -5,6 +5,9 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&repeat=false&width=500&height=70&lines=HI+!+I'M+PRANAY+%F0%9F%91%BE" />
 </div>
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align='center'>
  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,cpp,mongodb,postgres,python,git,docker,aws&theme=dark" />
 </div>
@@ -15,7 +18,7 @@ try {
     const me = {
         status: "Battling with Microsoft Teams' status",
         currentTask: "git push --force (living dangerously)",
-        achievement: "Successfully copied code from LLM",
+        achievement: ["Found missing semicolon", "Fixed bug by restarting PC"],
         debugMethod: "Adding random console.logs everywhere",
         motto: "It works in production (hopefully)"
     }
@@ -38,17 +41,8 @@ try {
 </div>
 
 <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9db4b864-a764-468f-9052-7bfa1bfe9a74" width="400">
-  <br>
-  <sup><sub>When the code works on the first try and now it's suspicious</sub></sup>
-</div>
-
-<div align="center">
-  <h3>Building Stuff</h3>
-  <img width=100% height=60 src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-  
-</div>
-
-<div align="center">
   <sup><sub>You're visitor #42 (in base infinity)</sub></sup>
 </div>
+
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
